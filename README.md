@@ -1,6 +1,10 @@
 # Jarvis
 A virtual assistant resembling Iron Man's Jarvis.
 
+<p align="left">
+  <img width="700" src="https://github.com/NateTheGreat7117/Jarvis/assets/71854770/276664a0-630f-45bd-b47a-8db1c8428c52">
+</p>
+
 ## Speech Recognition
 A pre-trained wav2vec model was finetuned on 4000 samples of my own speech data to better fit my voice.
 
