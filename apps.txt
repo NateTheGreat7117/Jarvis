@@ -1,0 +1,89 @@
+Google Chrome
+Mozilla Firefox
+Microsoft Edge
+VLC Media Player
+Windows Media Player
+iTunes
+Windows Defender
+Norton
+McAfee
+Avast
+Skype
+Microsoft Teams
+Zoom
+Slack
+Adobe Creative Cloud
+Photoshop
+Illustrator
+InDesign
+GIMP
+CorelDRAW
+Visual Studio Code
+IntelliJ IDEA
+Eclipse
+Git
+CCleaner
+Dropbox
+WinRAR
+7-Zip
+Chrome Developer Tools
+FileZilla
+Sublime Text
+EasyEDA
+Atom
+VMware Workstation
+VirtualBox
+Adobe Acrobat Reader
+Foxit Reader
+LastPass
+1Password
+Evernote
+Microsoft OneNote
+Adobe Premiere Pro
+DaVinci Resolve
+Audacity
+FL Studio
+Steam
+Epic Games Store
+TeamViewer
+AnyDesk
+Acronis True Image
+Macrium Reflect
+Facebook
+Twitter
+Discord
+PyCharm
+Visual Studio
+Arduino
+Arduino IDE
+Chrome
+Eclipse
+GitHub Desktop
+Sourcetree
+GitKraken
+MySQL Workbench
+Microsoft SQL Server Management Studio
+Docker
+Kubernetes
+AutoCAD
+SolidWorks
+Fusion 360
+Rhino
+Blender
+Maya
+3ds Max
+V-Ray
+KeyShot
+Altium Designer
+KiCad
+Eagle
+EasyEDA
+LTspice
+PSpice
+Files
+File sytem
+CURA
+Settings
+Systems monitor
+Command prompt
+Terminal

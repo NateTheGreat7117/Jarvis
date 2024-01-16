@@ -1,0 +1,604 @@
+Apples
+Bananas
+Spinach
+Tomatoes
+Avocado
+Milk
+Eggs
+Cheese
+Yogurt
+Chicken breasts
+Ground beef
+Salmon
+Tofu
+Whole wheat bread
+Rice
+Quinoa
+Pasta
+Canned tomatoes
+Beans
+Black beans
+Chickpeas
+Soup
+Chicken noodle soup
+Tomato soup
+Frozen vegetables
+Broccoli
+Ppeas
+Frozen fruits
+Berries
+Mango chunks
+Frozen pizza
+Nuts
+Almonds
+Walnuts
+Granola bars
+Popcorn
+Crackers
+Water
+Coffee
+Tea
+Juice
+Ketchup
+Mustard
+Mayonnaise
+Soy sauce
+Salt
+Pepper
+Garlic powder
+Basil
+Ice cream
+Chocolate
+Cookies
+Paper towels
+Toilet paper
+Dish soap
+Laundry detergent
+Shampoo
+Toothpaste
+Deodorant
+Toilet paper
+Olive oil
+Vinegar
+Flour
+Sugar
+Oranges
+Lemons
+Limes
+Grapefruits
+Strawberries
+Blueberries
+Raspberries
+Peaches
+Plums
+Nectarines
+Apricots
+Pineapple
+Mango
+Kiwi
+Papaya
+Watermelon
+Cantaloupe
+Honeydew
+Kale
+Romaine lettuce
+Arugula
+Swiss chard
+Carrots
+Sweet potatoes
+Beets
+Radishes
+Broccoli
+Cauliflower
+Brussels sprouts
+Cilantro
+Parsley
+Mint
+Basil
+Onions
+Garlic
+Shallots
+Red peppers
+Yellow peppers
+Orange peppers
+Zucchini
+Eggplant
+Cucumbers
+Almond milk
+Soy milk
+Oat milk
+Coconut milk
+Unsalted butter
+Margarine
+Greek yogurt
+Flavored yogurt
+Strawberry yogury
+Vanilla yogurt
+Dairy-free yogurt
+Feta cheese
+Parmesan cheese
+Goat cheese
+Gouda
+Heavy cream
+Whipping cream
+Sour cream
+Regular cream cheese
+Flavored cream cheese
+Chive cream cheese
+Garlic cream cheese
+Traditional eggnog
+Flavored eggnog
+Regular cottage cheese
+Low-fat cottage cheese
+Fat-free cottage cheese
+Cheddar slices
+Swiss slices
+Provolone slices
+Vegan cheese
+Plant-based yogurt
+Turkey
+Duck
+Cornish game hens
+Pork chops
+Pork tenderloin
+Bacon
+Lamb chops
+Ground lamb
+Lentils
+Chickpeas
+Black beans
+Shrimp
+Scallops
+Mussels
+Sausages (Italian, bratwurst, chorizo, etc.)
+Hot dogs
+Sliced turkey
+Roast beef
+Salami
+Canned tuna
+Canned salmon
+Canned chicken
+Firm tofu
+Silken tofu
+Ground turkey
+Ground pork
+Chicken thighs
+Chicken wings
+Turkey bacon
+Plant-based sausages
+Whole grain bread
+Multigrain bread
+Sourdough bread
+Bagels
+Flour tortillas
+Corn tortillas
+Whole wheat wraps
+Whole grain cereal
+Oatmeal
+Granola
+Brown rice
+Basmati rice
+Jasmine rice
+Couscous
+Whole wheat pasta
+Quinoa pasta
+Rice noodles
+Bran flakes
+Granola cereal
+Muesli
+Whole grain crackers
+Rice crackers
+Multigrain crackers
+All-purpose flour
+Whole wheat flour
+Almond flour
+Pancake mix
+Waffle mix
+Muffin mix
+Croissants
+Baguettes
+Pita bread
+Quinoa
+Farro
+Bulgur
+Nut and seed bars
+Fruit and nut bars
+Canned corn
+Canned peas
+Canned green beans
+Canned carrots
+Crushed tomatoes
+Tomato sauce
+Tomato paste
+Diced tomatoes
+Chicken noodle soup
+Vegetable soup
+Lentil soup
+Minestrone soup
+Cannellini beans
+Pinto beans
+Kidney beans
+Lentils
+Canned tuna
+Canned salmon
+Canned sardines
+Canned peaches
+Pineapple chunks
+Mandarin oranges
+Fruit cocktail
+Chicken broth
+Beef broth
+Vegetable broth
+Canned chili
+Canned vegetarian chili
+Canned coconut milk
+Coconut cream
+Sweetened condensed milk
+Evaporated milk
+Alfredo sauce
+Pesto sauce
+Canned green chilies
+Stir-fry vegetable mix
+Edamame
+Cauliflower rice
+Artichoke hearts
+Mango chunks
+Pineapple chunks
+Mixed berries
+Peach slices
+Frozen waffles
+Frozen pancakes
+Breakfast burritos
+Frozen breakfast sandwiches
+Frozen shrimp
+Fish fillets
+Seafood medley
+Margherita pizza
+Veggie pizza
+Pepperoni pizza
+Frozen pizza dough
+Ice cream (various flavors)
+Frozen yogurt
+Ice cream bars
+Sorbet
+Spring rolls
+Mozzarella sticks
+Chicken tenders/nuggets
+French fries
+Tater tots
+Hash browns
+Frozen ravioli
+Frozen lasagna
+Frozen pasta meals
+Frozen fruit bars
+Frozen yogurt bites
+Mini quiches
+Veggie burgers
+Meatless meatballs
+Plant-based nuggets
+Pistachios
+Sunflower seeds
+Pumpkin seeds
+Pepitas
+Mixed nuts
+Dried apricots
+Dried mango
+Raisins
+Banana chips
+Trail mix
+Beef jerky
+Turkey jerky
+Plant-based jerky
+Microwave popcorn
+Kettle corn
+Flavored popcorn
+Plain rice cakes
+Multigrain rice cakes
+Chocolate-covered rice cakes
+Traditional pretzels
+Pretzel sticks
+Pretzel crisps
+Cheese sticks or cubes
+Whole grain or multigrain crackers
+Single-serve hummus packs
+Carrot sticks
+Celery sticks
+Various flavors and brands
+High-protein bars
+Nut and seed bars
+Guacamole
+Salsa
+Spinach dip
+Artichoke dip
+Rice crackers
+Rice crisps
+Rice cakes with toppings
+Dark chocolate
+Milk chocolate
+Candy bars
+Greek yogurt cups
+Fruit-flavored yogurt
+Mixed fruit cups
+Green tea
+Black tea
+Herbal tea
+peppermint tea
+Chamomile tea
+Chai tea
+Ground coffee
+Coffee beans
+Instant coffee
+Coffee pods
+Orange juice
+Apple juice
+Grape juice
+Cranberry juice
+Sports drinks
+Energy drinks
+Electrolyte-enhanced beverages
+Cola
+Lemon-lime soda
+Sparkling water (flavored or plain)
+Natural coconut water
+Coconut water
+Almond milk
+Soy milk
+Oat milk
+Coconut milk
+Bottled iced tea
+Bottled cold brew coffee
+Flavored still water
+Flavored sparkling water
+Protein shakes
+Ready-to-drink protein beverages
+Pre-made milkshakes
+Smoothie mixes
+Hot chocolate mix
+Cucumber-infused water
+Berry-infused water
+Lipton
+Twinings
+Tazo
+Celestial Seasonings
+Starbucks
+Dunkin'
+Peet's Coffee
+Lavazza
+Tropicana
+Simply Orange
+Naked Juice
+Ocean Spray
+Naked Smoothies
+Bolthouse Farms
+Odwalla
+Muscle Milk
+Gatorade
+Powerade
+Red Bull
+5-hour Energy
+Coca-Cola
+Pepsi
+Sprite
+LaCroix
+Vita Coco
+ZICO
+Harmless Harvest
+Silk
+Almond Breeze
+Oatly
+So Delicious
+Arizona Tea
+Snapple
+Pure Leaf
+Starbucks Bottled Frappuccino
+Vitaminwater
+Smartwater
+Dasani Sparkling
+Premier Protein
+Ensure
+Orgain
+Bolthouse Farms
+Naked Protein Smoothies
+Califia Farms
+Swiss Miss
+Ghirardelli
+Nestle
+Hint Water
+Bai Infused Water
+Spindrift
+Thyme
+Rosemary
+Oregano
+Sage
+Cumin
+Paprika
+Cayenne pepper
+Turmeric
+Italian seasoning
+Cajun seasoning
+Garam masala
+Taco seasoning
+Whole cinnamon sticks
+Whole cloves
+Cardamom pods
+Bay leaves
+Dijon mustard
+Whole mustard seeds
+Vanilla extract
+Almond extract
+Lemon extract
+Red chili flakes
+Chili powder
+Ground coriander
+Whole coriander seeds
+Fennel seeds
+Ground allspice
+Whole nutmeg
+Nutmeg grater
+Caraway seeds
+Saffron threads
+Dried mint leaves
+Dried tarragon
+Chocolate chip cookies
+Oatmeal cookies
+Peanut butter cookies
+Shortbread cookies
+Boxed brownie mix
+Blondie mix
+Vanilla cake mix
+Chocolate cake mix
+Cream cheese frosting
+Buttercream frosting
+Pie crust
+Apple pie filling
+Cherry pie filling
+Pumpkin pie filling
+Hot fudge sauce
+Caramel sauce
+Sprinkles
+Crushed nuts
+Instant pudding mix
+Jello
+Ice cream sandwiches
+Frozen yogurt
+Popsicles
+Sorbet
+Cheesecake
+Tiramisu
+Eclairs
+Fruit tart
+Doughnuts
+Danish pastries
+Cinnamon rolls
+Croissants
+Assorted truffles
+Chocolate-covered nuts
+Specialty chocolate bars
+Cupcake liners
+Cupcake mix
+Decorative sprinkles
+Lemon bars
+Seven-layer bars
+Magic bars
+Fruit bars
+Cannoli
+Cream puffs
+Eclair cake
+Gummies
+Licorice
+Hard candies
+All-purpose cleaner
+Sponges
+Trash bags
+Broom and dustpan
+Dishwashing liquid
+Disinfectant wipes
+Paper towels
+Glass cleaner
+Mop
+Garbage bags
+Laundry detergent
+Fabric softener
+Air freshener
+Dishwasher detergent
+Hand soap
+Toilet bowl cleaner
+Vacuum cleaner bags
+Light bulbs
+Double A batteries
+Tripple A batteries
+Nine volt batteries
+Aluminum foil
+Plastic wrap
+Body wash
+Shaving cream
+Razors
+Facial cleanser
+Body lotion
+Sunscreen
+Feminine hygiene products
+Cotton swabs
+Facial tissues
+Hair conditioner
+Dental floss
+Mouthwash
+Hand sanitizer
+Nail clippers
+Gel
+Mousse
+Lip balm
+Contact lens solution
+Shower cap
+Soft plush toys
+Teething rings
+Stacking cups
+Soft fabric books
+Musical mobiles for cribs
+Crib
+Soft baby dolls
+Sensory balls
+Baby gyms with hanging toys
+Large building blocks
+Soft, squeezable bath toys
+Play-dough and modeling clay
+Building blocks or LEGO Duplo sets
+Colorful board books
+Puzzles with large pieces
+Art supplies
+Crayons
+Markers
+Finger pains
+Dress-up costumes
+Action figures or dolls
+Tricycles or balance bikes
+Simple board games
+Musical instruments
+Drums
+Xylophones
+Disposable razors
+Board games
+Monopoly
+Scrabble
+Candy Land
+Action figures
+Dolls
+Educational kits
+Remote control cars or drones
+Building sets
+Legos
+Sports equipment
+Soccer ball
+Soccer goal
+Basketball
+Basketball hoop
+Jump rope
+Football
+Baseball
+Baseball bat
+Bicycle with training wheels
+Video games
+Jigsaw puzzles
+Books
+Laundry detergent
+Fabric softener
+Stain remover
+Bleach
+Lint rollers
+Clothespins
+Hangers
+Storage bags
+Sewing kit
+Needles
+Threads
+Buttons
+Shoe polish
+Insoles
+Socks
+Underwear
+Tights or stockings
+Shoelaces
+Umbrella
+Hat or cap
+Scarf
+Gloves
+Sunglasses

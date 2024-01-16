@@ -1,0 +1,260 @@
+What is the capital of France?
+When was the Declaration of Independence signed?
+Who is the current president/prime minister of Germany?
+What is the population of Tokyo?
+What is the scientific name of the Bald Eagle?
+How many continents are there on Earth?
+When was Taylor Swift born?
+What is the history of the Internet?
+What are the main causes of diabetes?
+What is the meaning of the word serendipity?
+Who are the members of the band BTS?
+What is the tallest mountain in the world, Mount Everest?
+What is the currency of Japan?
+What is the GDP of Brazil?
+What are the symptoms of COVID-19?
+What are the dimensions of the Eiffel Tower?
+What is the history of the company Apple Inc.?
+Who won the Nobel Prize in Physics in 2020?
+What are the major tourist attractions in New York City?
+What is the longest river in Africa?
+What is the capital of South Korea?
+When was the Battle of Gettysburg fought?
+Who is the current president/prime minister of India?
+What is the population of Mexico City?
+What is the scientific name of the Great White Shark?
+How many continents are there in Asia?
+When was Leonardo da Vinci born?
+What is the history of the Automobile?
+What are the main causes of climate change?
+What is the meaning of the word ephemeral?
+Who are the members of the band Coldplay?
+What is the tallest mountain in North America?
+What is the currency of Australia?
+What is the GDP of China?
+What are the symptoms of migraine?
+What are the dimensions of the Pyramids of Giza?
+What is the history of the company Google?
+Who won the Nobel Prize in Literature in 2019?
+What are the major tourist attractions in Paris?
+What is the longest river in South America?
+What is the official language of Switzerland?
+When was the first moon landing?
+Who is the current chancellor of Germany?
+What is the population of Mumbai?
+What is the scientific name of the Komodo Dragon?
+How many time zones are there in Russia?
+When was Malala Yousafzai awarded the Nobel Peace Prize?
+What is the history of the video game industry?
+What are the primary risk factors for heart disease?
+What is the meaning of the term blockchain?
+Who are the main actors in the movie Inception?
+What is the elevation of Mount Kilimanjaro?
+What is the currency of South Africa?
+What is the GDP of Japan?
+What are the early signs of Alzheimer's disease?
+What are the dimensions of the Pantheon in Rome?
+What is the founding story of Amazon?
+Who won the Nobel Prize in Chemistry in 2018?
+What are the must-visit places in Kyoto?
+What is the length of the Amazon River?
+What is the primary export of Argentina?
+When did the Renaissance period begin?
+Who is the current prime minister of Canada?
+What is the population density of Singapore?
+What is the scientific name of the Red Kangaroo?
+How many official languages does South Africa have?
+When did Marie Curie win her first Nobel Prize?
+What is the history of the Hollywood Walk of Fame?
+What are the environmental impacts of deforestation?
+What is the origin of the word quasar?
+Who directed the film The Shawshank Redemption?
+What is the prominence of Denali?
+What is the currency of Switzerland?
+What is the GDP of Germany?
+What are the common symptoms of anxiety disorders?
+What are the dimensions of the Great Wall of China?
+How did the company Tesla start?
+Who won the Nobel Prize in Peace in 2017?
+What are the hidden gems in Barcelona?
+What is the discharge rate of the Nile River?
+Where is Jupiter located in our solar system?
+What is the chemical composition of water?
+How does a transistor function in electronic circuits?
+What are the three states of matter?
+What is the speed of light in a vacuum?
+Where is the Andromeda Galaxy located in relation to the Milky Way?
+What is the atomic number of carbon?
+How do enzymes function in biological systems?
+What is the concept of plate tectonics in geology?
+What is the Bohr model of the atom?
+Where is the Kuiper Belt situated in our solar system?
+What is the role of mitochondria in cells?
+Explain the process of nuclear fusion in stars.
+What is the definition of entropy in thermodynamics?
+Where is the ISS (International Space Station) located in orbit?
+Describe the structure and function of a neuron.
+What is the Higgs boson and why is it important?
+How does CRISPR-Cas9 technology work in genetic engineering?
+Where is the ozone layer located in Earth's atmosphere?
+What is the significance of the Schrodinger equation in quantum mechanics?
+What are the health benefits of green tea?
+When did the Industrial Revolution begin?
+Who is the current president of Brazil?
+What is the population of Tokyo?
+How does photosynthesis work in plants?
+What is the significance of the Mona Lisa?
+Where is Mars in relation to Earth right now?
+What is the meaning of the term biodiversity?
+Who discovered the double helix structure of DNA?
+How does electricity flow in a circuit?
+What is the capital of South Africa?
+When did the Renaissance end?
+What is the history of Microsoft Corporation?
+What are the symptoms of seasonal allergies?
+Where is the Great Barrier Reef located?
+What is the cosmic microwave background radiation?
+How does the human digestive system work?
+Who won the Nobel Prize in Economics in 2021?
+What are the top tourist attractions in Rome?
+What is the length of the Nile River?
+What is the primary export of Australia?
+When was the Berlin Wall constructed?
+Who is the current prime minister of Japan?
+What is the population of New York City?
+How does respiration occur in living organisms?
+What is the cultural significance of the Great Wall of China?
+Where is the nearest black hole to our solar system?
+What is the genetic code and how does it work?
+Explain the water cycle in Earth's atmosphere.
+What is the theory of relativity proposed by Albert Einstein?
+Who is the main architect of the Sydney Opera House?
+When did the Cold War end?
+What is the development history of the iPhone?
+What are the preventive measures for cardiovascular diseases?
+Where is the Yellowstone National Park located?
+What is the role of dark matter in the universe?
+How does RNA interference work in molecular biology?
+Who won the Nobel Prize in Literature in 2016?
+What are the cultural landmarks in Kyoto?
+What is the average depth of the Atlantic Ocean?
+What is the function of a capacitor in an electronic circuit?
+When was the first electrical power plant established?
+Who is considered the father of electrical engineering?
+What is the significance of Ohm's Law in circuit analysis?
+How does a transistor amplifier work in electronic devices?
+Where is the Silicon Valley located and its role in electronics?
+What are the applications of embedded systems in engineering?
+How does electromagnetic induction contribute to power generation?
+What is the concept of signal processing in electrical engineering?
+Who invented the first practical telephone and when?
+What is the role of semiconductors in electronic devices?
+When was the first computer built, and who designed it?
+What is the history of integrated circuits in electronics?
+How does a digital signal processor (DSP) differ from a microprocessor?
+Where is the Tesla Gigafactory located and its impact on electric vehicles?
+What are the key principles of control systems in engineering?
+How does radiofrequency identification (RFID) technology work?
+Who won the Nobel Prize in Physics for contributions to semiconductor physics?
+What are the recent advancements in power electronics?
+Explain the principles of circuit design for energy-efficient systems.
+What is the difference between Java and JavaScript programming languages?
+When was the first computer virus discovered?
+Who is the creator of the Python programming language?
+What is the significance of Alan Turing in computer science?
+How does artificial intelligence impact various industries?
+Where is the Silicon Alley located and its role in tech startups?
+What is the concept of big data and its applications?
+How does machine learning differ from deep learning?
+What are the key principles of algorithm design in computer science?
+Who developed the World Wide Web and when?
+What is the significance of Moore's Law in computing?
+When was the first computer game created, and what was it?
+What are the applications of blockchain technology beyond cryptocurrencies?
+How does cloud computing enhance data storage and processing?
+Where is the Silicon Wadi located, and its role in technology innovation?
+What are the key components of operating systems?
+How does quantum computing differ from classical computing?
+Who are the pioneers in computer graphics technology?
+What are the recent breakthroughs in natural language processing?
+Explain the concept of cybersecurity and its importance in the digital age.
+What is the role of embedded systems in everyday devices?
+When was the first microcontroller invented, and by whom?
+How does an RTOS (Real-Time Operating System) function in embedded systems?
+What are the key challenges in designing embedded systems for IoT?
+Where are embedded systems commonly used in automotive technology?
+What is the significance of ARM architecture in embedded systems?
+How do wireless communication protocols work in embedded systems?
+What are the applications of FPGA (Field-Programmable Gate Array) in embedded systems?
+Explain the role of sensors and actuators in embedded systems.
+What is the impact of Industry 4.0 on embedded systems?
+When did embedded systems become widely adopted in consumer electronics?
+What are the key considerations in power management for embedded systems?
+How does real-time processing differ from traditional processing in embedded systems?
+What is the significance of RTOS in medical devices?
+Where are embedded systems employed in smart home technology?
+How do embedded systems contribute to the functionality of autonomous vehicles?
+What are the challenges in ensuring security in embedded systems?
+Explain the concept of firmware in the context of embedded systems.
+What are the recent advancements in low-power embedded systems?
+Where is edge computing applied in conjunction with embedded systems?
+What is the difference between machine learning and deep learning?
+When was the term "machine learning" first coined?
+Who is considered a pioneer in the field of machine learning?
+What is the role of training data in machine learning algorithms?
+How does supervised learning differ from unsupervised learning?
+Where is machine learning applied in natural language processing?
+What are the key applications of machine learning in healthcare?
+How does reinforcement learning work in artificial intelligence?
+What is the significance of neural networks in deep learning?
+Who developed the concept of backpropagation in neural networks?
+When did deep learning gain prominence in the field of computer vision?
+What are the challenges in interpretable machine learning?
+How do convolutional neural networks (CNNs) function in image recognition?
+What are the ethical considerations in deploying machine learning systems?
+Where is machine learning applied in fraud detection?
+How does transfer learning enhance the efficiency of deep learning models?
+What is the role of generative adversarial networks (GANs) in machine learning?
+Where is machine learning employed in recommendation systems?
+Explain the concept of hyperparameter tuning in machine learning.
+What are the future trends and challenges in machine learning and deep learning?
+What is the process of scientific method and its components?
+When did the Human Genome Project conclude, and what were its findings?
+Who is known for developing the periodic table in chemistry?
+How does CRISPR gene editing revolutionize genetic engineering?
+What is the scientific consensus on climate change?
+When was the Hubble Space Telescope launched, and what discoveries did it make?
+Who proposed the theory of relativity, and what are its implications?
+How do black holes form, and what is their role in the universe?
+What are the fundamental forces in the universe and their characteristics?
+Where is the Large Hadron Collider (LHC) located, and what experiments does it conduct?
+What is the concept of dark matter in astrophysics?
+How do vaccines work to provide immunity against diseases?
+Who discovered penicillin, and what impact did it have on medicine?
+What is the significance of Heisenberg's uncertainty principle in quantum mechanics?
+How does DNA replication occur in cellular processes?
+What are the key principles of evolutionary theory proposed by Charles Darwin?
+When was the first successful organ transplant performed?
+How does stem cell research contribute to medical advancements?
+What is the ozone layer and its role in protecting life on Earth?
+Explain the concept of quantum entanglement and its implications for communication.
+What were the main causes and consequences of the Renaissance?
+When and where did the Industrial Revolution begin, and what were its key innovations?
+Who were the major players in the Age of Exploration?
+What were the outcomes of the Treaty of Versailles after World War I?
+How did the Ancient Greek democracy function in Athens?
+When and why did the Roman Empire fall?
+What were the key events of the American Civil Rights Movement?
+Who were the significant leaders in the women's suffrage movement?
+What were the causes and effects of the Great Depression in the 1930s?
+How did the Cold War impact global geopolitics, and when did it end?
+What were the motivations and consequences of the French Revolution?
+When and where did the Space Race between the U.S. and the Soviet Union take place?
+Who were the major figures in the Scientific Revolution?
+What were the main events of the Vietnam War?
+How did the Magna Carta influence the development of constitutional law?
+Who were the key players in the civil rights movement in the United States?
+What were the causes and outcomes of the Russian Revolution?
+How did Napoleon Bonaparte impact European history?
+What were the consequences of the Berlin Wall coming down in 1989?
+Who were the prominent leaders during the Cuban Revolution?

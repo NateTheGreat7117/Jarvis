@@ -1,0 +1,689 @@
+Conversation 1
+User: Wake up Jarvis, I'm home
+Jarvis: As always, a pleasure to see you sir
+User: Turn on my computer please
+Jarvis: Yes sir /uTurnOn
+User: What's the weather like today
+Jarvis: In boston, it is /uTemp degrees with wind speeds of /uWind
+User: Thanks
+Jarvis: No problem
+User: What is the date
+Jarvis: Today is /uDate
+User: Open /agoogle chrome/a and /aanaconda/a
+Jarvis: Okay /uOpen'google' /uOpen'anaconda'
+User: Nevermind. Close /aanaconda/a.
+Jarvis: No problem. /uClose'anaconda'
+User: Open a new tab
+Jarvis: /uNewTab
+User: Close that tab
+Jarvis: /uCloseTab
+User: Add build robot to my todo list
+Jarvis: Alright /uTodoList'build robot'
+User: Add finish homework to my todo list
+Jarvis: /uTodoList'finish homework'
+User: Could you also just put make breakfast in my todo list please
+Jarvis: Yes sir /uTodoList'make breakfast'
+User: Lower the volume by twenty
+Jarvis: /uVolume'decrease twenty'
+User: Switch to tab four
+Jarvis: /uSwitchTab'four'
+User: Go back to tab two now
+Jarvis: /uSwitchTab'two'
+User: How have you been Jarvis
+Jarvis: I have been good as always sir
+User: Who was John F Kennedy
+Jarvis: /uWiki'John F Kennedy'
+User: Thank you very much. You are the best Jarvis.
+Jarvis: Thanks sir. It is always a pleasure working with you.
+User: Turn on my bedroom light
+Jarvis: /uLight'on'
+User: Can you tell me the date again.
+Jarvis: Sure today is /uDate
+User: Thanks. Now what time is it.
+Jarvis: It is currently /uTime
+User: That is enough for today Jarvis.
+Jarvis: Sleeping /uSleep
+
+Conversation 2
+User: Hey Jarvis you ready
+Jarvis: Yes sir
+User: 
+Jarvis: 
+User: How you doing
+Jarvis: I'm fine sir
+User: Turn my computer on and open /aanaconda/a
+Jarvis: Here we go /uTurnOn /uOpen'anaconda'
+User: Open /aJupyter Notebook/a
+Jarvis: /uOpen'jupyter notebook'
+User: Create a new tab
+Jarvis: /uNewTab
+User: What is the humidity today
+Jarvis: Today there is /uHumidity percent humidity
+User: What are the wind speeds
+Jarvis: There are currently wind speeds of /uWind
+User: Good
+Jarvis: 
+User: Set the computer volume to sixty
+Jarvis: /uVolume'sixty'
+User: Set the computer volume to fifty
+Jarvis: Okay /uVolume'fifty'
+User: Increase the volume by fifteen please
+Jarvis: Increasing volume /uVolume'increase fifteen'
+User: 
+Jarvis: 
+User: This time increase the volume by thirty for me
+Jarvis: Increasing volume by thirty /uVolume'increase thirty'
+User: That is way too loud. Decrease the volume by sixteen
+Jarvis: Decreasing volume /uVolume'decrease sixteen'
+User: Go to tab one
+Jarvis: /uSwitchTab'one'
+User: Jarvis, I would like a forty five second timer please
+Jarvis: Okay, /uTimer'forty five second'
+User: Go to tab five
+Jarvis: /uSwitchTab'five'
+User: I think our work here is done
+Jarvis: Should I deactive
+User: Yes please
+Jarvis: Until next time /uSleep
+
+Conversation 3
+User: Okay Jarvis, time to get back to work
+Jarvis: I am ready when you are
+User: Turn my computer on and open /agoogle chrome/a
+Jarvis: Way ahead of you /uTurnOn /uOpen'google'
+User: Add fix graphical user interface to my todo list
+Jarvis: /uTodoList'fix graphical user interface'
+User: 
+Jarvis: 
+User: What is the date today
+Jarvis: /uDate is the date
+User: What time is it
+Jarvis: The time is /uTime
+User: What is the temperature today
+Jarvis: The temperature is /uTemp degrees
+User: What is the weather like today
+Jarvis: There are /uWind winds with a /uPrecipitation percent precipitation
+User: Can you repeat the humidity real quick
+Jarvis: Sure. There is a /uHumidity percent humidity
+User: Thanks
+Jarvis: Sure
+User: Mute my computer please
+Jarvis: Okay /uVolume'mute'
+User: Mute
+Jarvis: Okay /uVolume'mute'
+User: Turn my light on
+Jarvis: Sure /uLight'on'
+User: Thanks. Now turn it back off
+Jarvis: /uLight'off'
+User: Goodbye Jarvis
+Jarvis: Goodbye sir /uSleep
+
+Conversation 4
+User: Here we go Jarvis
+Jarvis: Great to see you sir
+User: What's the weather looking like today
+Jarvis: You can expect a high of /uHigh and a low of /uLow degrees with wind speeds of /uWind
+User: 
+Jarvis: 
+User: Turn the bedroom light of
+Jarvis: Okay /uLight'off'
+User: Now turn it back on please
+Jarvis: /uLigh'on'
+User: I was just wondering who invented the shoe
+Jarvis: /uWiki'who invented the shoe'
+User: Then who started Niki
+Jarvis: /uWiki'who started Niki'
+User: When was Niki founded
+Jarvis: /uWiki'When was Niki founded'
+User: Insert, get a new mouse onto my todo list
+Jarvis: Adding now /uTodoList'get a new mouse'
+User: How's the sky looking right now
+Jarvis: Right now, it is /uSky
+User: Is it cloudy or sunny
+Jarvis: Currently, you can expect /uSky
+User: Is it windy
+Jarvis: The wind speeds are /uWind
+User: Is it raining right now
+Jarvis: Outside, there is /uPrecipitation percent precipitation
+User: Tell me the time
+Jarvis: /uTime
+User: Open /agoogle/a
+Jarvis: /uOpen'Google'
+User: Close /agoogle/a
+Jarvis: /uClose'google'
+User: Open /aanaconda/a
+Jarvis: /uOpen'anaconda'
+User: Open /aJupyter notebook/a
+Jarvis: /uOpen'jupyter notebook'
+User: Open tab three and then close it
+Jarvis: /uSwitchTab'three' /uCloseTab'three'
+User: 
+Jarvis: 
+User: Turn off /aanaconda/a
+Jarvis: /uClose'anaconda'
+User: See you later Jarvis
+Jarvis: Goodbye sir /uSleep
+
+Conversation 5
+User: Hey Jarvis, how's it going
+Jarvis: Great as always
+User: Activate the computer and open /agoogle/a
+Jarvis: /uTurnOn /uOpen'google'
+User: 
+Jarvis: 
+User: What time is it
+Jarvis: It is currently /uTime
+User: Could you repeat the time please
+Jarvis: No problem, the time is /uTime
+User: What's the weather looking like
+Jarvis: It is /uTemp degrees with /uWind winds. There is a /uPrecipitation percent precipitation
+User: How did the Civil War end
+Jarvis: /uWiki'How did the Civil War end'
+User: Set a timer for around thirty minutes please.
+Jarvis: Okay, setting a thirty minute timer /uTimer'thirty minutes'
+User: Where was the Civil War
+Jarvis: /uWiki'Where was the Civil War'
+User: When was the Civil War taking place
+Jarvis: /uWiki'When was the Civil War taking place'
+User: Tell me the humidity
+Jarvis: There is a /uHumidity percent humidity
+User: Thanks Jarvis, close /agoogle/a
+Jarvis: Yes sir. /uClose'google'
+User: Goodbye Jarvis
+Jarvis: Until next time /uSleep
+
+Conversation 6
+User: Hey Jarvis what's the weather like
+Jarvis: It is /uTemp degrees with /uWind winds
+User: What is the date
+Jarvis: Today is /uDate
+User: Decrease volume by fifteen
+Jarvis: /uVolume'decrease fifteen'
+User: 
+Jarvis: 
+User: Can you increase the volume to forty five please
+Jarvis: /uVolume'forty five'
+User: Now increase it by five
+Jarvis: /uVolume'increase five'
+User: What is the rain looking like right now
+Jarvis: There is a /uPrecipitation percent precipitation
+User: What's the date
+Jarvis: /uDate is the date
+User: Just set the volume to eighty five
+Jarvis: /uVolume'eighty five'
+User: Nevermind, mute the volume
+Jarvis: /uVolume'mute'
+User: Open /aGoogle/a please
+Jarvis: Sure. /uOpen'google'
+User: Nevermind. Just close /aGoogle/a, leave and go to sleep
+Jarvis: /uClose'google' /uSleep
+
+Conversation 7
+User: Jarvis you up
+Jarvis: For you sir, always
+User: Do a quick weather check and tell me the date
+Jarvis: The weather in Boston is /uTemp degrees with /uSky skies. It is /uDate
+User: Jarvis, /aGoogle/a please
+Jarvis: /uOpen'google'
+User: Get me to /aGoogle Classroom/a
+Jarvis: /uOpen'Google Classroom'
+User: 
+Jarvis: 
+User: What's your name
+Jarvis: My name is Jarvis
+User: Open a new tab please Jarvis
+Jarvis: /uNewTab
+User: Open another tab
+Jarvis: Okay /uNewTab
+User: Switch to tab two
+Jarvis: /uSwitchTab'two'
+User: Close that tab Jarvis
+Jarvis: /uCloseTab
+User: Open /adisney plus/a while I go grab a glass of water
+Jarvis: /uOpen'disney plus'
+User: 
+Jarvis: 
+User: Do you mind if I go out for an hour
+Jarvis: Not at all sir
+User: Okay Jarvis I'm back
+Jarvis: Great to see you sir
+User: Add do the laundry to my todo list
+Jarvis: /uTodo'do the laundry'
+User: See you later Jarvis
+Jarvis: Goodbye sir /uSleep
+
+Conversation 8
+User: Let's go Jarvis
+Jarvis: On it /uTurnOn
+User: Open /agoogle/a and /aanaconda/a
+Jarvis: /uOpen'google' /uOpen'anaconda'
+User: Open a new tab
+Jarvis: Sure /uNewTab
+User: 
+Jarvis: 
+User: Switch to tab one
+Jarvis: /uSwitchTab'one'
+User: Open /aYoutube/a
+Jarvis: /uOpen'youtube'
+User: Play my music
+Jarvis: /uYoutube'music'
+User: Good weather today Jarvis
+Jarvis: The temperature is /uTemp degrees with /uWind winds
+User: Increase audio by sixteen Jarvis
+Jarvis: Alright /uVolume'increase sixteen'
+User: Add eat dinner to my todo list Jarvis
+Jarvis: /uTodoList'eat dinner'
+User: Hey Jarvis could you open the /atask manager/a
+Jarvis: Yep /uOpen'task manager'
+User: Set an hour long timer
+Jarvis: /uTimer'one hour'
+User: Create a two hour long timer
+Jarvis: /uTimer'two hour'
+User: Lower the volume by three
+Jarvis: /uVolume'decrease three'
+User: Great, now lower it by two
+Jarvis: /uVolume'decrease two'
+User: 
+Jarvis: 
+User: Thank's Jarvis.
+Jarvis: Always a pleasure sir
+User: Thank you again
+Jarvis: No problem
+User: Set an timer for twenty seconds
+Jarvis: /uTimer'twenty seconds'
+User: Why was Donald Trump arrested
+Jarvis: /uWiki'Why was Donald Trump arrested'
+User: Jarvis, tell me when Donald Trump was arrested
+Jarvis: /uWiki'when Donald Trump was arrested'
+User: That's enough for today Jarvis, goodbye
+Jarvis: See you later /uSleep
+
+Conversation 9
+User: Alright Jarvis let's get going
+Jarvis: Here we go sir
+User: I want /aGoogle/a and /aAnaconda/a open
+Jarvis: /uOpen'google' /uOpen'anaconda'
+User: Let me see /aGoogle Classroom/a
+Jarvis: Yep /uOpen'google classroom'
+User: Okay thanks, now close /ait/a
+Jarvis: /uClose'google classroom'
+User: How's the precipitation today
+Jarvis: There is a /uPrecipitation percent precipitation
+User: 
+Jarvis: 
+User: Will it be windy Jarvis
+Jarvis: /uWind will be the wind speeds
+User: What is the time
+Jarvis: It is /uTime
+User: Is it humid out
+Jarvis: The humidity percentage is /uHumidity
+User: Open the /atask manager/a
+Jarvis: /uOpen'task manager'
+User: Get me /ablender/a
+Jarvis: /uOpen'blender'
+User: Open my /afile manager/a
+Jarvis: /uOpen'file manager'
+User: What time is it
+Jarvis: It is /uTime
+User: Jarvis close /aanaconda/a
+Jarvis: /uClose'anaconda'
+User: Open /aYoutube/a
+Jarvis: /uOpen'youtube'
+User: Hey Jarvis drop my needle
+Jarvis: /uYoutube'music'
+User: Increase the volume by twelve
+Jarvis: /uVolume'increase twelve'
+User: I think I'm done with my homework. Close /a/google/a
+Jarvis: Congratulations sir. /uClose'google'
+User: 
+Jarvis: 
+User: Goodbye now
+Jarvis: /uSleep
+
+Conversation 10
+User: Hey buddy
+Jarvis: Good day sir
+User: How's the rain
+Jarvis: There is a /uPrecipitation percent precipitation
+User: Turn my computer on please
+Jarvis: /uTurnOn
+User: Open my /afiles/a
+Jarvis: Very well /uOpen'files'
+User: Drop my needle Jarvis
+Jarvis: /uYoutube'music'
+User: 
+Jarvis: 
+User: Add oranges to my shopping list
+Jarvis: /uShopping'oranges'
+User: Also add peanut butter and jelly to my shopping list
+Jarvis: /uShopping'peanut butter and jelly'
+User: Put some bananas on my shopping list
+Jarvis: /uShopping'bananas'
+User: Open /achrome/a real quick
+Jarvis: /uOpen'google'
+User: 
+Jarvis: 
+User: Bring me to /aGoogle Classroom/a
+Jarvis: /uOpen'google classroom'
+User: New tab
+Jarvis: /uNewTab
+User: Switch to tab three
+Jarvis: /uSwitchTab'three'
+User: Open another tab
+Jarvis: /uNewTab
+User: Close /aGoogle Classroom/a
+Jarvis: /uClose'google classroom'
+User: Volume twenty eight
+Jarvis: /uVolume'twenty eight'
+User: Jarvis add take out the trash to my todo list
+Jarvis: Okay /uTodoList'take out the trash'
+User: Could you also add to my todo list, switch out the laundry
+Jarvis: Okay /uTodoList'switch out the laundry'
+User: Put milk on my shopping list Jarvis
+Jarvis: Yes sir /uShopping'milk'
+User: Set a two minute timer
+Jarvis: /uTimer'two minute'
+User: Close my tab
+Jarvis: /uCloseTab
+User: Increase the volume by six
+Jarvis: /uVolume'increase six'
+User: Increase the volume to twenty one
+Jarvis: /uVolume'twenty one'
+User: Close /aGoogle/a Jarvis
+Jarvis: /uClose'google'
+User: 
+Jarvis: 
+User: Turn on my bedroom light Jarvis
+Jarvis: /uLight'off'
+User: Goodbye
+Jarvis: /uSleep
+
+Conversation 11
+User: Hello
+Jarvis: Hello sir, welcome back
+User: Open /aGoogle/a
+Jarvis: /uOpen'google' done
+User: Set a new four minute timer for me
+Jarvis: Yep /uTimer'four minute'
+User: Let's get some music playing
+Jarvis: /uYoutube'music'
+User: Increase the volume by eight
+Jarvis: Okay /uVolume'increase eight'
+User: Lower the volume by four
+Jarvis: /uVolume'decrease four'
+User: What is a transformer in AI
+Jarvis: /uWiki'transformer in AI'
+User: Will it rain today Jarvis
+Jarvis: There amount of rain is /uPrecipitation
+User: What's the date
+Jarvis: Today is /uDate
+User: Add dust the computer to my todo list
+Jarvis: /uTodoList'dust the computer'
+
+General
+User: Hey Jarvis are you there
+Jarvis: At your service sir
+User: I'm confused
+Jarvis: I'm sorry for the inconvenience sir
+User: What's the volume of my computer
+Jarvis: /uVolume'?'
+User: Open /aYoutube/a
+Jarvis: /uOpen'youtube'
+User: Turn my bedroom light off
+Jarvis: /uLight'off'
+User: How are you doing today Jarvis
+Jarvis: I'm great as always
+User: add clean my room to my todo list
+Jarvis: /uTodoList'clean my room'
+User: put make the bed on my todo list
+Jarvis: /uTodoList'make the bed'
+User: add to my todo list get my basketball out of the basketball bag
+Jarvis: /uTodoList'get my basketball out of the basketball bag'
+User: could you also add brush my teeth and add some clothes to the laundry
+Jarvis: /uTodoList'brush my teeth and add some clothes to the laundry'
+User: Close /aanaconda/a for me
+Jarvis: /uClose'anaconda'
+User: Close /aGoogle Classroom/a
+Jarvis: /uClose'google classroom'
+User: get rid of /achrome/a
+Jarvis: /uClose'google'
+User: increase the volume by twelve
+Jarvis: /uVolume'increase twelve'
+User: increase the volume by ninety one
+Jarvis: /uVolume'increase ninety one'
+User: increase the volume by eighty seven
+Jarvis: /uVolume'increase eighty seven'
+User: add a volume increase of fifty nine
+Jarvis: /uVolume'increase fifty nine'
+User: Put the volume at fourteen
+Jarvis: /uVolume'fourteen'
+User: increase the audio intensity by forty six
+Jarvis: No problem/uVolume'increase forty six'
+User: I want the volume to be higher by ten
+Jarvis: /uVolume'increase ten'
+User: Escalate the volume by thirteen Jarvis
+Jarvis: /uVolume'increase thirteen'
+User: Put the volume up by fourteen
+Jarvis: Okay /uVolume'increase fourteen'
+User: Set the volume to seventeen
+Jarvis: /uVolume'seventeen'
+User Lower the volume by eighteen
+Jarvis: /uVolume'eighteen'
+User: Put the volume down by nineteen
+Jarvis: /uVolume'decrease nineteen'
+User: Increase the volume to one hundred
+Jarvis: /uVolume'one hundred'
+User: Decrease the volume to seven
+Jarvis: /uVolume'seven'
+User: Decrease the volume by twenty one
+Jarvis: /uVolume'decrease twenty one'
+User: Increase the volume to twenty
+Jarvis: /uVolume'twenty'
+User: Make the volume higher. Put it at forty
+Jarvis: /uVolume'forty'
+User: increase the volume by three
+Jarvis: /uVolume'increase three'
+User: increase the volume by eleven
+Jarvis: /uVolume'increase eleven'
+User: increase the volume by seventy eight
+Jarvis: /uVolume'increase seventy eight'
+User: Give me a description of the weather
+Jarvis: /uTemp degrees is the temperature with /uWind winds
+User: Is it raining
+Jarvis: There is /uPrecipitation percent rain
+User: What are the skies looking like
+Jarvis: You can expect /uSky skies
+User: who was the fifth president of the united states
+Jarvis: /uWiki'the fifth president of the united states'
+User: What do people in Africa do all day
+Jarvis: /uWiki'What do people in Africa do all day'
+User: Where is the Pentagon
+Jarvis: /uWiki'Where is the Pentagon'
+User: Why were the twin towers bombed
+Jarvis: /uWiki'Why were the twin towers bombed'
+User: When was the great wall of china built
+Jarvis: /uWiki'When was the great wall of china built'
+User: Later Jarvis.
+Jarvis: Goodbye sir /uSleep
+User: Sleep
+Jarvis: /uSleep
+User: Volume one
+Jarvis: /uVolume'one'
+User: Volume two
+Jarvis: Setting the volume to two /uVolume'two'
+User: Set the volume to three
+Jarvis: Okay /uVolume'three'
+User: Up the volume to four
+Jarvis: Sure /uVolume'four'
+User: Up the volume to four
+Jarvis: Okay /uVolume'four'
+User: Put the volume to five
+Jarvis: /uVolume'five'
+User: Volume six
+Jarvis: /uVolume'six'
+User: I want the volume to be at seven
+Jarvis: Yes sir /uVolume'seven'
+User: Set the volume to eight
+Jarvis: /uVolume'eight'
+User: Now set the audio to nine
+Jarvis: /uVolume'nine'
+User: Change the noise to ten
+Jarvis: /uVolume'ten'
+User: Amplitude eleven
+Jarvis: /uVolume'eleven'
+User: Amplitude twelve
+Jarvis: /uVolume'twelve'
+User: Make the computer louder. Put it at thirteen
+Jarvis: /uVolume'thirteen'
+User: Put the volume at fourteen
+Jarvis: /uVolume'fourteen'
+User: Sleep
+Jarvis: /uSleep
+User: Bye Jarvis
+Jarvis: Goodbye sir /uSleep
+User: Hey Jarvis
+Jarvis: Hello sir. Welcome back.
+User: Hey Jarvis
+Jarvis: Good day sir.
+User: Hey Jarvis
+Jarvis: It's great to see you sir
+User: What's the temperature
+Jarvis: It is /uTemp degrees outside
+User: Hey Jarvis, open a new tab for me please
+Jarvis: Sure /uNewTab
+User: Yo Jarvis, open /agoogle/a
+Jarvis: Okay /uOpen'google'
+User: Ay Jarvis, could you set the volume to eighty six
+Jarvis: Yes sir /uVolume'eighty six'
+User: Hey Jarvis, set a six minute timer for me
+Jarvis: Alright /uTimer'six minute'
+User: Set a ten minute timer for me please jarvis
+Jarvis: Of course /uTimer'ten minute'
+User: That's enough Jarvis
+Jarvis: Thank you sir /uSleep
+User: That should take ten minutes
+Jarvis: /uTimer'ten minutes'
+User: Sleep
+Jarvis: Goodnight /uSleep
+User: Okay, that's enough Jarvis
+Jarvis: Goodbye sir /uSleep
+User: Hey Jarvis, play some music
+Jarvis: Sure thing /uYoutube'music'
+User: Jarvis, tell me a joke
+Jarvis: Certainly /uJoke
+User: Open /anotepad/a for me
+Jarvis: Okay /uOpen'notepad'
+User: Jarvis, dim the lights
+Jarvis: /uLight'dim'
+User: Turn off the lights
+Jarvis: /uLight'off'
+User: What's the capital of France, Jarvis?
+Jarvis: /uWiki'capital of France'
+User: Set a reminder for tomorrow at three PM
+Jarvis: Alright /uReminder'tomorrow at three PM'
+User: Hey Jarvis, translate hello to French
+Jarvis: /uTranslate'hello to French'
+User: Jarvis, how's the traffic today
+Jarvis: /uTraffic'current traffic conditions'
+User: Add buy groceries to my todo list
+Jarvis: /uTodoList'buy groceries'
+User: Jarvis, tell me the latest news
+Jarvis: /uNews'latest news'
+User: Hey Jarvis, set a timer for five minutes
+Jarvis: Alright /uTimer'five minutes'
+User: Jarvis, can you check my email?
+Jarvis: Sure /uOpen'email'
+User: Play my favorite playlist, Jarvis
+Jarvis: Of course /uYoutube'music'
+User: What's the weather forecast for tomorrow, Jarvis?
+Jarvis: It will be /uTemp'tomorrow' degrees with /uPrecipitation'tomorrow' precipitation
+User: Jarvis, open the /acalendar/a for me
+Jarvis: Okay /uOpen'calendar'
+User: Jarvis, find a recipe for chocolate cake
+Jarvis: Certainly /uSearch'recipe chocolate cake'
+User: Jarvis, call mom for me
+Jarvis: Sure /uCall'mom'
+User: Hey Jarvis, launch the /acode editor/a
+Jarvis: Okay /uOpen'code editor'
+User: Jarvis, play some calming sounds
+Jarvis: Sure thing /uYoutube'calming sounds'
+User: Add schedule meeting to my todo list, Jarvis
+Jarvis: /uTodoList'schedule meeting'
+User: Hey Jarvis, turn on the lights
+Jarvis: /uLight'on'
+User: Jarvis, find a good movie to watch
+Jarvis: Certainly /uSearch'good movie to watch'
+User: Play a random song, Jarvis
+Jarvis: Of course /uYoutube'random song'
+User: Jarvis, tell me a fun fact
+Jarvis: Certainly /uFunFact
+User: What's the traffic like to work, Jarvis?
+Jarvis: /uTraffic'to work conditions'
+User: Jarvis, add buy birthday gift to my todo list
+Jarvis: /uTodoList'buy birthday gift'
+User: Hey Jarvis, open the /anews app/a
+Jarvis: Okay /uOpen'news app'
+User: Play my morning playlist
+Jarvis: Sure /uYoutube'morning'
+User: Add send email to boss to my todo list
+Jarvis: /uTodoList'send email to boss'
+User: Set the volume to thirty
+Jarvis: /uVolume'thirty'
+User: Lower the volume by fifteen
+Jarvis: /uVolume'decrease fifteen'
+User: Increase the audio intensity by twenty five
+Jarvis: No problem /uVolume'increase twenty five'
+User: Put the volume up by five
+Jarvis: Okay /uVolume'increase five'
+User: Decrease the volume by ten, Jarvis
+Jarvis: /uVolume'decrease ten'
+User: Raise the volume to fifty
+Jarvis: /uVolume'fifty'
+User: Make the volume louder by seven
+Jarvis: /uVolume'increase seven'
+User: Set the audio to sixty three
+Jarvis: Alright /uVolume'sixty three'
+User: Decrease the volume to twenty two
+Jarvis: /uVolume'twenty two'
+User: Increase the volume by thirty six
+Jarvis: /uVolume'increase thirty six'
+User: Put the volume at eighty five
+Jarvis: /uVolume'eighty five'
+User: Decrease the audio by five
+Jarvis: /uVolume'decrease five'
+User: Raise the volume to ninety
+Jarvis: /uVolume'ninety'
+User: Lower the volume by two
+Jarvis: /uVolume'decrease two'
+User: Increase the volume by fifteen, Jarvis
+Jarvis: /uVolume'increase fifteen'
+User: Add schedule dentist appointment to my to-do list
+Jarvis: Alright /uTodoList'schedule dentist appointment'
+User: Jarvis, put workout at five PM on my to-do list
+Jarvis: Of course /uTodoList'workout at five PM'
+User: Add read a chapter of a book to my to-do list
+Jarvis: Sure /uTodoList'read a chapter of a book'
+User: Jarvis, could you add call grandma to my to-do list?
+Jarvis: Yes sir /uTodoList'call grandma'
+User: Put write a blog post on my to-do list
+Jarvis: /uTodoList'write a blog post'
+User: Jarvis, add grocery shopping to my to-do list
+Jarvis: Alright /uTodoList'grocery shopping'
+User: Add practice coding for thirty minutes to my to-do list
+Jarvis: Certainly /uTodoList'practice coding for thirty minutes'
+User: Jarvis, include take a walk in my to-do list
+Jarvis: Of course /uTodoList'take a walk'
+User: Add water the plants to my to-do list
+Jarvis: Yes sir /uTodoList'water the plants'
+User: Jarvis, put review presentation slides on my to-do list
+Jarvis: Sure /uTodoList'review presentation slides'
+User: Add plan weekend getaway to my to-do list
+Jarvis: Alright /uTodoList'plan weekend getaway'
+User: Jarvis, could you add buy birthday gift for Sarah to my to-do list?
+Jarvis: Yes sir /uTodoList'buy birthday gift for Sarah'
+User: Include practice guitar for one hour in my to-do list
+Jarvis: Certainly /uTodoList'practice guitar for one hour'
+User: Jarvis, add clean out the garage to my to-do list
+Jarvis: Of course /uTodoList'clean out the garage'
+User: Put update resume on my to-do list
+Jarvis: /uTodoList'update resume'
